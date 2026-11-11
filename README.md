@@ -3,7 +3,7 @@ Estudante de Ciência da Computação na UFRGS, focado em desenvolvimento back-e
 Atualmente faço uma especialização em back-end java e iniciando estudos em cybersecurity.
 
 ## No que estou trabalhando
-- Sistema de Gerenciamento de Serviços para empresa Gerdau. Sistema consulta, altera, cria, contrata e gerencia Serviços; Possui controle de governança com fluxo de aprovação de cadastro de login e de serviços; Importa base dados csv para o sistema identificando possiveis duplicatas antes;
+- Sistema de Gerenciamento de Serviços para empresa Gerdau. Sistema consulta, altera, cria, contrata e gerencia Serviços; Possui controle de governança com fluxo de aprovação de cadastro de login e de serviços; Importa base dados csv para o sistema identificando possiveis duplicatas antes; REST APIs.
 - Estudando Programação Orientada a Objetos em Java (herança, polimorfismo, coleções)
 - Aprendendo SQL e modelagem de bancos de dados
 - Aprendendo Spring
