@@ -19,5 +19,5 @@ Atualmente faço uma especialização em back-end java e iniciando estudos em cy
 - [Estudos em Java](https://github.com/kaioalex-dev/estudos-java): exercícios de Java e POO 
 
 ## Contato
-- LinkedIn: [linkedin.com/in/dev-kaio-alex-silva](linkedin.com/in/dev-kaio-alex-silva)
+- LinkedIn: [linkedin.com/in/dev-kaio-alex-silva](https://linkedin.com/in/dev-kaio-alex-silva)
 - E-mail: kaioprocontact@gmail.com
